@@ -14,11 +14,6 @@ const magazinesData = [
     image: "https://i1.feedspot.com/200/5313863.jpg?t=1637739821",
     title: "Man of Many",
   },
-  {
-    id: 3,
-    image: "https://i1.feedspot.com/200/4922678.jpg?t=1628487234",
-    title: "Maxim Magazine",
-  },
 ]
 
 const MagazinesList = () => {
