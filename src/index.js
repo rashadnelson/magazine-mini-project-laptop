@@ -9,11 +9,6 @@ const magazinesData = [
     image: "https://i1.feedspot.com/200/4918930.jpg?t=1616506424",
     title: "Men's Health",
   },
-  {
-    id: 2,
-    image: "https://i1.feedspot.com/200/5313863.jpg?t=1637739821",
-    title: "Man of Many",
-  },
 ]
 
 const MagazinesList = () => {
