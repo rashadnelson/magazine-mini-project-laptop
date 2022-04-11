@@ -9,11 +9,6 @@ const magazinesData = [
     image: "https://i1.feedspot.com/200/4918930.jpg?t=1616506424",
     title: "Men's Health",
   },
-  {
-    id: 2,
-    image: "https://secure.static.meredith.com/crt/store/covers/magazines/nmo/0400_m.jpg",
-    title: "Esquire",
-  },
 ]
 
 const MagazinesList = () => {
