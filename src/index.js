@@ -14,13 +14,6 @@ const magazinesData = [
     image: "https://secure.static.meredith.com/crt/store/covers/magazines/nmo/0400_m.jpg",
     title: "Esquire",
   },
-  {
-    id: 3,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2nXFFhUYxupqA57xFguPXKmuvGJDdaHjVQ&usqp=CAU",
-    title: "GQ",
-  },
-
-
 ]
 
 const MagazinesList = () => {
