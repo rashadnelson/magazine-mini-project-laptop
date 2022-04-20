@@ -9,6 +9,11 @@ const magazinesData = [
     image: "https://i1.feedspot.com/200/4918930.jpg?t=1616506424",
     title: "Men's Health",
   },
+  {
+    id: 2,
+    image: "http://cdn.shopify.com/s/files/1/0536/9754/4342/products/Addaheading_30.png?v=1616179120",
+    title: "Wired",
+  },
 
 ]
 
