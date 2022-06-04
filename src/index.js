@@ -14,6 +14,12 @@ const magazinesData = [
     image: "http://cdn.shopify.com/s/files/1/0536/9754/4342/products/Addaheading_30.png?v=1616179120",
     title: "Wired",
   },
+  {
+    id: 3,
+    image: "https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2011/01/143.jpg",
+    title: "Fast Company",
+  },
+
 
 ]
 
