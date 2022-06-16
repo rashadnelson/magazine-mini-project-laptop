@@ -19,6 +19,11 @@ const magazinesData = [
     image: "https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2011/01/143.jpg",
     title: "Fast Company",
   },
+  {
+    id: 4,
+    image: "https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2011/01/143.jpg",
+    title: "Fast Company",
+  },
 
 
 ]
